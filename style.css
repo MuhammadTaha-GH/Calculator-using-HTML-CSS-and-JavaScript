@@ -1,0 +1,74 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #282c3f;
+}
+
+.calcBody {
+    width: 300px;
+    height: 300px;
+    margin: 140px auto;
+}
+
+#display {
+    background-color: #000;
+    border-radius: 10px 10px 0px 0px;
+    width: 90%;
+    padding: 22px 9px 22px 9px;
+    color: #fff;
+    border: 0px;
+    text-align: right;
+    font-size: 20px;
+}
+
+.allOperator input {
+    padding: 15px 35px 15px 35px;
+    border: 1px solid #0000004a;
+    background-color: #E9E9E6;
+    font-size: 15px;
+    max-width: 70px !important;
+    font-weight: 400 !important;
+}
+
+.operator {
+    float: left;
+}
+
+.allOperator.numsRow {
+    float: left !important;
+}
+
+.equalSign input {
+    background: #F98765;
+    float: right !important;
+    height: 195px;
+    width: 72px;
+    top: -147px;
+    position: relative;
+    left: -12px;
+    border: 0;
+    border-radius: 0px 0px 10px 0px;
+}
+
+.zeroSign input {
+    border-radius: 0px 0px 0px 10px;
+}
+
+.allOperator.numsRow input {
+    background: #ffff !important;
+}
+
+#AC_operator {
+    padding: 15px 43px 15px 27px;
+}
+
+.allOperator.numsRow input:hover {
+    background-color: #E9E9E6 !important;
+}
+
+.allOperator input:hover {
+    background-color: #fff;
+}
