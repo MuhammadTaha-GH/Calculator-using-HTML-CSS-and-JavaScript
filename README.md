@@ -55,12 +55,14 @@ Contributions are welcome! If you have suggestions for improvements, please foll
 
 # License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is open source; feel free to adapt and extend.
 
 # Contact
 
 For any inquiries or suggestions, feel free to reach out:
 
 GitHub: MuhammadTaha-GH
-
+LinkedIn: www.linkedin.com/in/muhammad-taha-da  
 Email: taha.bhurani@gmail.com
+
+If this project helped you, please give it a star!
